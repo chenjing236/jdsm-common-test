@@ -1,0 +1,1 @@
+nosetests -s -v health.py:HealthCheckTest.test_ingress_domain_connection
